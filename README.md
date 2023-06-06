@@ -12,8 +12,8 @@ the nert image shows the web application's appearance and functionality,
 in wich we add semantic HTML elements,you can view the heading attributes fall in sequential order,
 in the title element you can find a concise and descriptive title.
 
+/Code-Refactor/Assets/01-html-css-git-homework-demo.png
 
-![website](/Code-Refactor/Assets/01-html-css-git-homework-demo.png)
 ```
 
 ## Credits
